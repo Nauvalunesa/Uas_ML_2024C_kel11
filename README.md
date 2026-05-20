@@ -83,9 +83,7 @@ jupyter notebook "Progres_ml_kelompok_11_executed.ipynb"
 
 ```
 ├── Progres_ml_kelompok_11.ipynb   # Notebook utama (sudah dieksekusi)
-├── fitur_cnn.npy                           # Hasil ekstraksi fitur VGG16
-├── dataset_split/                          # Data train/val/test
-└── solar-panel-images/                     # Dataset mentah
+├── PM_Kemajuan_Kel11.pdf # laporan perkembangan projek
 ```
 
 ## Referensi
